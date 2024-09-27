@@ -1,0 +1,477 @@
+   console.error
+      {
+        type: 'error',
+        lastLine: 379,
+        lastColumn: 65,
+        firstColumn: 15,
+        message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+        extract: '          <label class="form-check-label" for="BudgetRadios">\n     ',
+        hiliteStart: 10,
+        hiliteLength: 51
+      } 24 [
+        {
+          type: 'error',
+          lastLine: 22,
+          lastColumn: 116,
+          firstColumn: 7,
+          message: 'Bad value “20% ” for attribute “width” on element “img”: Expected a digit but saw “%” instead.',
+          extract: 'd">\n' +
+            '      <img src="./assets/digix_logo.png" width="20% " height="25% " alt="" class="d-inline-block align-middle mr-2">\n' +
+            '    <',
+          hiliteStart: 10,
+          hiliteLength: 110
+        },
+        {
+          type: 'error',
+          lastLine: 22,
+          lastColumn: 116,
+          firstColumn: 7,
+          message: 'Bad value “25% ” for attribute “height” on element “img”: Expected a digit but saw “%” instead.',
+          extract: 'd">\n' +
+            '      <img src="./assets/digix_logo.png" width="20% " height="25% " alt="" class="d-inline-block align-middle mr-2">\n' +
+            '    <',
+          hiliteStart: 10,
+          hiliteLength: 110
+        },
+        {
+          type: 'info',
+          lastLine: 56,
+          lastColumn: 46,
+          firstColumn: 41,
+          message: 'Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.',
+          extract: 'Next Level<br /> Desig',
+          hiliteStart: 10,
+          hiliteLength: 6
+        },
+        {
+          type: 'error',
+          lastLine: 104,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (2).png” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (2).png" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 114,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (3).png” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (3).png" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 124,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (4).png” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (4).png" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 134,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (5).svg” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (5).svg" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 144,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (6).svg” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (6).svg" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'info',
+          lastLine: 87,
+          lastColumn: 48,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: 'ion -->\n  <section class="row m-0 achievements-section">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 46
+        },
+        {
+          type: 'error',
+          lastLine: 161,
+          lastColumn: 49,
+          firstColumn: 11,
+          message: 'Attribute “ref” not allowed on element “a” at this point.',
+          extract: '          <a class="pt-2 pb-2 pr-5 pl-5" ref=" ">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 39
+        },
+        {
+          type: 'error',
+          lastLine: 176,
+          lastColumn: 12,
+          firstColumn: 5,
+          message: 'The “center” element is obsolete. Use CSS instead.',
+          extract: '-5 ">\n    <center>\n     ',
+          hiliteStart: 10,
+          hiliteLength: 8
+        },
+        {
+          type: 'info',
+          lastLine: 175,
+          lastColumn: 34,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: '</div>\n\n  <section class="testimony p-5 ">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 32
+        },
+        {
+          type: 'error',
+          lastLine: 212,
+          lastColumn: 12,
+          firstColumn: 5,
+          message: 'The “center” element is obsolete. Use CSS instead.',
+          extract: '-5 ">\n    <center>\n     ',
+          hiliteStart: 10,
+          hiliteLength: 8
+        },
+        {
+          type: 'info',
+          lastLine: 211,
+          lastColumn: 34,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: '</div>\n\n  <section class="testimony p-5 ">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 32
+        },
+        {
+          type: 'error',
+          lastLine: 251,
+          lastColumn: 12,
+          firstColumn: 5,
+          message: 'The “center” element is obsolete. Use CSS instead.',
+          extract: 'm-5">\n    <center>\n     ',
+          hiliteStart: 10,
+          hiliteLength: 8
+        },
+        {
+          type: 'info',
+          lastLine: 250,
+          lastColumn: 37,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: '</div>\n\n  <section class="testimony p-5 m-5">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 35
+        },
+        {
+          type: 'error',
+          lastLine: 286,
+          lastColumn: 12,
+          firstColumn: 5,
+          message: 'The “center” element is obsolete. Use CSS instead.',
+          extract: 'm-5">\n    <center>\n     ',
+          hiliteStart: 10,
+          hiliteLength: 8
+        },
+        {
+          type: 'info',
+          lastLine: 285,
+          lastColumn: 37,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: '</div>\n\n  <section class="testimony p-5 m-5">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 35
+        },
+        {
+          type: 'error',
+          lastLine: 326,
+          lastColumn: 63,
+          firstColumn: 11,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="exampleRadios1">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 53
+        },
+        {
+          type: 'error',
+          lastLine: 334,
+          lastColumn: 67,
+          firstColumn: 15,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="exampleRadios1">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 53
+        },
+        {
+          type: 'error',
+          lastLine: 342,
+          lastColumn: 67,
+          firstColumn: 15,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="exampleRadios1">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 53
+        },
+        {
+          type: 'error',
+          lastLine: 353,
+          lastColumn: 65,
+          firstColumn: 15,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="BudgetRadios">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 51
+        },
+        {
+          type: 'error',
+          lastLine: 361,
+          lastColumn: 65,
+          firstColumn: 15,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="BudgetRadios">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 51
+        },
+        {
+          type: 'error',
+          lastLine: 371,
+          lastColumn: 65,
+          firstColumn: 15,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="BudgetRadios">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 51
+        },
+        {
+          type: 'error',
+          lastLine: 379,
+          lastColumn: 65,
+          firstColumn: 15,
+          message: 'The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.',
+          extract: '          <label class="form-check-label" for="BudgetRadios">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 51
+        },
+        {
+          type: 'error',
+          lastLine: 313,
+          firstLine: 312,
+          lastColumn: 43,
+          firstColumn: 11,
+          message: 'The “aria-describedby” attribute must point to an element in the same document.',
+          extract: '          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"\n' +
+            '            placeholder="Email *" required>\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 137
+        },
+        {
+          type: 'info',
+          lastLine: 301,
+          lastColumn: 30,
+          firstColumn: 7,
+          subType: 'warning',
+          message: 'Consider using the “h1” element as a top-level heading only (all “h1” elements are treated as top-level headings by many screen readers and other tools).',
+          extract: 'n">\n      <h1 class="text-center">CONTAC',
+          hiliteStart: 10,
+          hiliteLength: 24
+        }
+      ]
+
+      12 |     if (results.messages.length > 0) {
+      13 |         console.log("The Following Rules W3C Rules aren't being adhered")
+    > 14 |         results.messages.map(console.error);
+         |                          ^
+      15 |     }
+      16 |     expect(results.messages.length).toBe(0);
+      17 | });
+
+          at Array.map (<anonymous>)
+      at Object.<anonymous> (__tests__/w3c-html-validation.test.js:14:26)
+
+    console.error
+      {
+        type: 'error',
+        lastLine: 313,
+        firstLine: 312,
+        lastColumn: 43,
+        firstColumn: 11,
+        message: 'The “aria-describedby” attribute must point to an element in the same document.',
+        extract: '          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"\n' +
+          '            placeholder="Email *" required>\n' +
+          '     ',
+        hiliteStart: 10,
+        hiliteLength: 137
+      } 25 [
+        {
+          type: 'error',
+          lastLine: 22,
+          lastColumn: 116,
+          firstColumn: 7,
+          message: 'Bad value “20% ” for attribute “width” on element “img”: Expected a digit but saw “%” instead.',
+          extract: 'd">\n' +
+            '      <img src="./assets/digix_logo.png" width="20% " height="25% " alt="" class="d-inline-block align-middle mr-2">\n' +
+            '    <',
+          hiliteStart: 10,
+          hiliteLength: 110
+        },
+        {
+          type: 'error',
+          lastLine: 22,
+          lastColumn: 116,
+          firstColumn: 7,
+          message: 'Bad value “25% ” for attribute “height” on element “img”: Expected a digit but saw “%” instead.',
+          extract: 'd">\n' +
+            '      <img src="./assets/digix_logo.png" width="20% " height="25% " alt="" class="d-inline-block align-middle mr-2">\n' +
+            '    <',
+          hiliteStart: 10,
+          hiliteLength: 110
+        },
+        {
+          type: 'info',
+          lastLine: 56,
+          lastColumn: 46,
+          firstColumn: 41,
+          message: 'Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.',
+          extract: 'Next Level<br /> Desig',
+          hiliteStart: 10,
+          hiliteLength: 6
+        },
+        {
+          type: 'error',
+          lastLine: 104,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (2).png” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (2).png" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 114,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (3).png” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (3).png" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 124,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (4).png” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (4).png" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 134,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (5).svg” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (5).svg" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'error',
+          lastLine: 144,
+          lastColumn: 119,
+          firstColumn: 7,
+          message: 'Bad value “./assets/achievements/Achievements (6).svg” for attribute “src” on element “img”: Illegal character in path segment: space is not allowed.',
+          extract: 'r">\n' +
+            '      <img src="./assets/achievements/Achievements (6).svg" alt="achievement" class="img-fluid mb-2 achievement-image">\n' +
+            '     ',
+          hiliteStart: 10,
+          hiliteLength: 113
+        },
+        {
+          type: 'info',
+          lastLine: 87,
+          lastColumn: 48,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: 'ion -->\n  <section class="row m-0 achievements-section">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 46
+        },
+        {
+          type: 'error',
+          lastLine: 161,
+          lastColumn: 49,
+          firstColumn: 11,
+          message: 'Attribute “ref” not allowed on element “a” at this point.',
+          extract: '          <a class="pt-2 pb-2 pr-5 pl-5" ref=" ">\n     ',
+          hiliteStart: 10,
+          hiliteLength: 39
+        },
+        {
+          type: 'error',
+          lastLine: 176,
+          lastColumn: 12,
+          firstColumn: 5,
+          message: 'The “center” element is obsolete. Use CSS instead.',
+          extract: '-5 ">\n    <center>\n     ',
+          hiliteStart: 10,
+          hiliteLength: 8
+        },
+        {
+          type: 'info',
+          lastLine: 175,
+          lastColumn: 34,
+          firstColumn: 3,
+          subType: 'warning',
+          message: 'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.',
+          extract: '</div>\n\n  <section class="testimony p-5 ">\n    <',
+          hiliteStart: 10,
+          hiliteLength: 32
+        },
+        {
+          type: 'error',
+          lastLine: 212,
+          lastColumn: 12,
+          firstColumn: 5,
+          message: 'The “center” element is obsolete. Use CSS instead.',
+          extract: '-5 ">\n    <center>\n     ',
+          hiliteStart: 10,
+          hiliteLength: 8
+        },
