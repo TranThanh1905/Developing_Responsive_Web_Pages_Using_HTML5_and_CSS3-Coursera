@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e34b4a; 
+}
+
+/*#container {
+    width: 620px;
+    margin: 20px auto;
+    overflow: hidden;
+}
+*/
+.width {
+    width: 100px;
+    float: left;
+    margin: 10px;
+    background-color: #3d1e37; 
+}
+
+.height {
+    height: 100px; 
+}
