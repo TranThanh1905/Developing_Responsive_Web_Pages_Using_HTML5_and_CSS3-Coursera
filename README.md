@@ -2,7 +2,7 @@
 # Coursera
 ## Module_1
 - Nameplate (done)
-- Masonry Layout​
+- Masonry Layout​ (done)
 - Global Sanctuary Fund(done)
 ## Module_2
 -
