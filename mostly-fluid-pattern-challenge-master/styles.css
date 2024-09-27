@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cmt {
+    width: 100%;
+    margin: 0 auto;
+}
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box {
+    flex: 1 1 50%; 
+    height: 200px;
+}
+
+
+.First {
+    background-color: #002b60;
+}
+
+.Second {
+    background-color: #0066cc;
+}
+
+.Third {
+    background-color: #b3d9ff; 
+}
+
+.Fourth {
+    background-color: #d9e6f2; 
+}
+
+.Fifth {
+    background-color: #e6e6e6; 
+}
+Sixth{
+    background-color: #e6e6e6;
+}
+
+@media (max-width: 768px) {
+    .box {
+        flex: 1 1 100%; 
+    }
+}
+
