@@ -1,5 +1,4 @@
-# Developing-Responsive-Web-Pages-Using-HTML5-and-CSS3
-# Coursera
+# Developing-Responsive-Web-Pages-Using-HTML5-and-CSS3-Coursera
 ## Module_1
 - Nameplate (done)
 - Masonry Layout​ (done)
@@ -11,6 +10,5 @@
 ## Module 3
 - Column Drop Pattern (done)
 - Digix Engineers (done)
--
 
 ### If it helpful, give 1 likes 👌👌
