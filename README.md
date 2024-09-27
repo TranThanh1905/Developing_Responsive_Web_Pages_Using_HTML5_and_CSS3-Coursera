@@ -5,6 +5,6 @@
 - Masonry Layout​ (done)
 - Global Sanctuary Fund(done)
 ## Module_2
--
+- Mostly Fluid Pattern​ (done)
 -
 -
