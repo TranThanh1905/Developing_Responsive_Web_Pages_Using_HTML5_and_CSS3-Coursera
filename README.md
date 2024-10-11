@@ -11,4 +11,5 @@
 - Column Drop Pattern (done)
 - Digix Engineers (done)
 
+## 100/100 points, if it doesn't work download the file on Coursera then create index and html, then import the code
 ### If it helpful, give 1 likes 👌👌
